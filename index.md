@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## 个人简历
+### 联系方式
+- 手机：1771135360*
+- Email:464721716@qq.com
+### 个人信息
+- 姓名/性别/出生年份
 
 You can use the [editor on GitHub](https://github.com/hongbo214/hongbo214.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
